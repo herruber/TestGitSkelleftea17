@@ -12,6 +12,7 @@ namespace ConsoleApp2
         {
             Console.WriteLine("testar github");
             Console.ReadKey();
+            Console.WriteLine("ny rad");
         }
     }
 }
